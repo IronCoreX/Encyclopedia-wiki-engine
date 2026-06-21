@@ -1,0 +1,1 @@
+**Git** is a distributed version control software system that is capable of managing versions of source code or data. It is often used to control source code by programmers who are developing software collaboratively.
